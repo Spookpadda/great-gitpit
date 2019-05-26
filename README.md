@@ -22,7 +22,7 @@ Currently my stack includes...
 
 ### Natural History
 I am a zoologist, ecologist and population geneticist by training and a natural historian by choice.
-I am a passionate frogger, birdwatcher, butterflyfan, animal spotter, plantID nerd - with a particular interest in Eucalyptus 
+I am a passionate frogger, birdwatcher, butterflyfan, animal spotter, plantID nerd - with a particular interest in *Eucalyptus* 
 To understand our environment we must first be able to distinguish and identify species.
 Naming species does not conflict with aesthetic enjoyment.
 Without identification one breathtaking vista of forested hills, savanna or grassland, is much like another.
@@ -36,4 +36,4 @@ I'm similarly awed by those who quietly sit for hours in the cold, rain, wind an
 Frogs need great patience. Lizards need good perception and quick reflexes.
 
 ### Contact
-My [twitter handle is](https://twitter.com/Spookpadda)
+My twitter handle is [Spookpadda](https://twitter.com/Spookpadda)
