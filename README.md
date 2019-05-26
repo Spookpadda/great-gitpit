@@ -2,11 +2,11 @@
 
 ### Where
 I currently live between Armidale, NSW and Melbourne, Victoria, Australia.
-Previously I lived in South Africa, in 
-4. Cullinan, Gauteng (2013 - 2019)
-3. Harrismith, Free State (2004 - 2003)
-2. Pretoria, Gauteng (2001 - 2004)
-1. Stellenbosch, Western Cape Province (1997 - 2001)
+Previously I lived in South Africa, in: 
+1. Cullinan, Gauteng (2013 - 2019)
+2. Harrismith, Free State (2004 - 2003)
+3. Pretoria, Gauteng (2001 - 2004)
+4. Stellenbosch, Western Cape Province (1997 - 2001)
 
 ### Books
 I am a prolific but slow reader, always with a pile of unfinished books.
@@ -46,7 +46,8 @@ Like all natural historians I am continuously learning, honing my field skills.
 I live in awe of the many people I know who carry thousands of animal and plant names, characters and distributions in their heads, for whom a glance is sufficient for ID.
 I'm similarly awed by those who quietly sit for hours in the cold, rain, wind and myriad discomforts to record the behaviour of species.
 
-Frogs need great patience. Lizards, good perception and quick reflexes.
+Frogs need great patience. 
+Lizards, good perception and quick reflexes.
 
 ### Contact
 My twitter handle is [Spookpadda](https://twitter.com/Spookpadda)
